@@ -4,5 +4,5 @@
 2. Body layout with Image 
 3. Animated Button
 4. Created animation through Keyframes
-5.Implemented BEM Modle in Css Pattern.
+5. Implemented BEM Modle in Css Pattern.
 [BEM] : Block Element Modifier
